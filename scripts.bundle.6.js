@@ -1,0 +1,2 @@
+/* inline-13.js */
+{"prefetch":[{"tag":"mpa-prefetch-moderate","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/"}}]},"eagerness":"moderate"}]}
